@@ -1,0 +1,18 @@
+{
+  "name": "facetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "face-recognition": "^0.3.0",
+    "goproh4": "^0.4.2",
+    "homebridge": "^0.4.37",
+    "node-wifi": "^2.0.4",
+    "opencv4nodejs": "^2.37.1"
+  }
+}
